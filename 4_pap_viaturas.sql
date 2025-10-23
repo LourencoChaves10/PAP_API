@@ -1,4 +1,4 @@
-USE bd_pap_System;
+USE bd_pap_system;
 
 CREATE TABLE viaturas (
     id INT(11) AUTO_INCREMENT,
