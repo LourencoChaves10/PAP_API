@@ -1,0 +1,6 @@
+-- 1_pap_CreateDB.sql(TROCAR NOME DA BASE DE DADOS QUANDO TIVER UM NOME DEFINIDO)
+DROP DATABASE IF EXISTS bd_sgm_system;
+
+CREATE DATABASE bd_sgm_system;
+
+USE bd_sgm_system;
